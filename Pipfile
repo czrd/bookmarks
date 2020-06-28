@@ -12,6 +12,7 @@ rope = "*"
 
 [packages]
 django = "==3.*"
+pillow = "*"
 
 [requires]
 python_version = "3.8"
