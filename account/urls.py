@@ -32,4 +32,7 @@ urlpatterns = [
 
     # dashboard
     path('', views.dashboard, name='dashboard'),
+
+    # registration
+    path('register/', views.register, name='register'),
 ]
